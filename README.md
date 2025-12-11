@@ -19,5 +19,10 @@ If you use midi
 R1/R2 100ohm
 C1    100nF
 
+11/12/2025 Updated with fabrication files for [JLCPCB](https://jlcpcb.com/)
+           nanoshield.zip as gerber file
+           bom.csv as BOM
+           positions.csv as CPL files (all of them into 'production' folder)
+           also note headers not visible on JLC's site - not big deal IMHO
 
 
