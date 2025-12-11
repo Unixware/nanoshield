@@ -1,0 +1,14 @@
+### Footprint positions - created on 2025-12-11T17:09:21+0000 ###
+### Printed by KiCad version 9.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                                                                        PosX       PosY       Rot  Side
+C1        100n               C_Disc_D5.0mm_W2.5mm_P5.00mm                                                               118.4000   -82.9500  180.0000  top
+J1        Conn_01x20_Socket  PinSocket_1x20_P2.54mm_Vertical                                                            142.8500   -81.2000  180.0000  top
+J2        Joy                DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm   103.3200   -41.7100  -90.0000  top
+J3        Conn_01x20_Socket  PinSocket_1x20_P2.54mm_Vertical                                                            122.5500   -81.2400  180.0000  top
+J4        M0S                PinSocket_2x06_P2.54mm_Horizontal                                                          149.5800   -37.1600   90.0000  top
+J5        MIDI_OUT           MIDI_DIN5                                                                                  100.2477   -74.4487  -90.0000  top
+R1        100                R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal                                          117.3500   -66.4700  -90.0000  top
+R2        100                R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal                                          115.7000   -59.8800   90.0000  top
+## End

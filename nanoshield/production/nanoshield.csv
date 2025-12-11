@@ -1,0 +1,7 @@
+"Reference","Value","Datasheet","LCSC Part #","Footprint","Qty","DNP"
+"J4","M0S","~","C5333437","Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal","1",""
+"J1,J3","Conn_01x20_Socket","~","C5224030","Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical","2",""
+"C1","100n","~","C3009699","Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm","1",""
+"J5","MIDI OUT","","C2939346","Eurocad:MIDI_DIN5","1",""
+"R1,R2","100","~","C1364269","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","2",""
+"J2","Joy","~","C141880","Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm","1",""
