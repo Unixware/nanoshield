@@ -1,7 +1,0 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"J3,J1";"PinSocket_1x20_P2.54mm_Vertical";2;"Conn_01x20_Socket";;;
-2;"J2";"DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm";1;"Joy";;;
-3;"C1";"C_Disc_D5.0mm_W2.5mm_P5.00mm";1;"100n";;;
-4;"R1,R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";2;"100";;;
-5;"J5";"MIDI_DIN5";1;"MIDI OUT";;;
-6;"J4";"PinSocket_2x06_P2.54mm_Horizontal";1;"M0S";;;
